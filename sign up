@@ -1,1 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link href="mainstyles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h1>Party Sign Up</h1>
+<nav class="navbar">
+<ul>
+  <li></li>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="AboutMe.html">About Me</a></li>
+  <li><a href="announcements.html">Announcements</a></li>
+  <li><a href="partyGuidelines.html">Party Guidelines</a></li>
+  <li><a href="signUp.html">Sign Up</a></li>
+  <li><a href="images.html">Images</a></li>
+  <li><a href="contactUs.html">Contact Us</a></li>
+</ul>
+</nav>
+<p>&nbsp;</p>
+<p>Signing up for the CosPlay party is a healthy way to enjoy dressing up and socialising with other party-goers. The party is a good way to promote the costumes and try on some of the new designs. The party offers many benefits and is easy to sign up for.</p>
+<p>To sign up for the party, patrons need to register through email. The email should include contact name, phone number and number of party-goers.CosPlay email and sign up for is provided below. </p>
+<p>&nbsp;</p>
+</body>
+</html>
 
