@@ -1,1 +1,34 @@
 
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+<link href="mainstyles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h1>CosPlay History</h1>
+<nav class="navbar">
+<ul>
+  <li></li>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="AboutMe.html">About Me</a></li>
+  <li><a href="announcements.html">Announcements</a></li>
+  <li><a href="partyGuidelines.html">Party Guidelines</a></li>
+  <li><a href="signUp.html">Sign Up</a></li>
+  <li><a href="images.html">Images</a></li>
+  <li><a href="contactUs.html">Contact Us</a></li>
+</ul>
+</nav>
+<p>&nbsp;</p>
+<p>Based in Viennaville, CossiePlay presents and offers the finest custom made costumes. Designing all ranges of costumes to suit you, CosPlay is a performance art in which participants known as cosplayers display costumes and fashion accessories to represent a detailed character. The local costume family business ranges in a variety of soruces including manga, anime, comic books, cartoons, video games and live-actions films and television series. </p>
+<p>Cossieplay has been operating since 2011 and constantly designs to suit your choice of attire.</p>
+<p>CossiePlay is known for its well made custom costumes doing simple designs such as, Sipderman or elf, all the way up to more advanced features such as, armour, animatronics, realistc weaponry and working fields. Costumes range from $10 to $10,000 and can take up to 1 to 50 weeks depending on the design. </p>
+<p>The growth of people cosplaying since 1990 has increased rapidly causing the business to populate in significant aspects of cultures in Japan and parts of Asia. Cosplay will continue to expand into other region's of the western world. </p>
+<p>To access further information formally introducing Cosplay, ingress in the link page, acessing the url. </p>
+<p><a href="links.html">Links</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
