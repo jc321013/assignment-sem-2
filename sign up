@@ -4,26 +4,86 @@
 <meta charset="utf-8">
 <title>Untitled Document</title>
 <link href="mainstyles.css" rel="stylesheet" type="text/css">
+<!--The following script tag downloads a font from the Adobe Edge Web Fonts server for use within the web page. We recommend that you do not modify it.-->
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+<script src="http://use.edgefonts.net/belgrano:n4:default.js" type="text/javascript"></script>
 </head>
 
 <body>
+<p1>COSPLAY.COM</p1>
 <h1>Party Sign Up</h1>
 <nav class="navbar">
 <ul>
   <li></li>
-  <li><a href="index.html">Home</a></li>
-  <li><a href="AboutMe.html">About Me</a></li>
-  <li><a href="announcements.html">Announcements</a></li>
-  <li><a href="partyGuidelines.html">Party Guidelines</a></li>
-  <li><a href="signUp.html">Sign Up</a></li>
-  <li><a href="images.html">Images</a></li>
-  <li><a href="contactUs.html">Contact Us</a></li>
+  <li><a href="index.html" class="a">Home</a></li>
+  <li><a href="AboutMe.html" class="a">About Me</a></li>
+  <li><a href="announcements.html" class="a">Announcements</a></li>
+  <li><a href="partyGuidelines.html" class="a">Party Guidelines</a></li>
+  <li><a href="signUp.html" class="a">Sign Up</a></li>
+  <li><a href="images.html" class="a">Images</a></li>
+  <li><a href="contactUs.html" class="a">Contact Us</a></li>
 </ul>
 </nav>
 <p>&nbsp;</p>
 <p>Signing up for the CosPlay party is a healthy way to enjoy dressing up and socialising with other party-goers. The party is a good way to promote the costumes and try on some of the new designs. The party offers many benefits and is easy to sign up for.</p>
 <p>To sign up for the party, patrons need to register through email. The email should include contact name, phone number and number of party-goers.CosPlay email and sign up for is provided below. </p>
 <p>&nbsp;</p>
-</body>
-</html>
+<p>&nbsp;</p>
+<div id="pagecontent">
+<div id="signup">
+<h2>Sign Up</h2>
+<form method='get' action='user.php'>
+First Name:<br>
+<input type="text" name="first"><br>
+Last Name:<br>
+<input type="text" name="last"><br>
+Password:<br>
+<input type="password" name="password"><br>
+Number of Party-Goers:<br>
+<input type="text" name="Number of party-goers attending"><br>
+Home Phone Number:<br>
+<input type="text" name="homephone"><br>
+Mobile Phone Number:
+<br><input type="text" name="mobilephone"><br>
+Email Address:
+<br><input type="text" name="email"><br>
+<input type="hidden" name='method' value='reg'>
+<input type="submit" formaction="signUp.html" value="Submit">
+</form>
+</div>
+</div>
 
+</body>
+<footer>
+<div id= contacts>
+<h3>Contact Info:</h3>
+<p>Phone: 7 4771 1235<br>
+fax: 07 4771 1235<br><br>
+Address: 4 Stanton Avenue, Viennaville:<br> Email:Cossieplay@gmail.com
+</p>
+</div>
+<div id= Links>
+<h3>Links:</h3>
+<h4>CossiePlay:</h4>
+<p> https://en.wikipedia.org/wiki/Cosplay (Wikipedia entry for cosplay)
+http://www.cosplay.com - world largest cosplay community
+ cosplaytutorial.com/index.php – resource for costumers
+
+</div>
+<br>
+<br>
+<br> <div id="sitemap">
+<li><a href="index.html" class="a">Home</a></li>
+  <li><a href="AboutMe.html" class="a">About Me</a></li>
+  <li><a href="announcements.html" class="a">Announcements</a></li>
+  <li><a href="partyGuidelines.html" class="a">Party Guidelines</a></li>
+  <li><a href="signUp.html" class="a">Sign Up</a></li>
+  <li><a href="images.html" class="a">Images</a></li>
+  <li><a href="contactUs.html" class="a">Contact Us</a></li>
+</br>
+</br>
+</br>
+
+</div>
+</footer>
+</html>
